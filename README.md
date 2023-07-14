@@ -16,9 +16,9 @@
 
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=xuehaoweng&show_icons=true&layout=compact&theme=dark?count_private=true">
+<a href="https://github-readme-stats.vercel.app/api?username=xuehaoweng&show_icons=true&layout=compact&theme=dark?count_private=true" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xuehaoweng&show_icons=true&layout=compact&theme=dark?count_private=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xuehaoweng&layout=compact">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xuehaoweng&layout=compact" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuehaoweng&layout=compact" />
 </a>
