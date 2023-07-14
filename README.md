@@ -9,7 +9,7 @@
     </a>
 </p>
 <p align="center">
- <a target="_blank" href="https://juejin.cn/user/1310273591851159">xuehaoweng的掘金</a> |  <a target="_blank" href="https://mp.weixin.qq.com/misc/getqrcode?fakeid=3900333416&token=549028458">有追求的开发者</a> 
+ <a target="_blank" href="https://juejin.cn/user/1310273591851159">xuehaoweng的掘金</a> |  <a target="_blank" href="https://mp.weixin.qq.com/misc/getqrcode?fakeid=3900333416&token=549028458">有追求的开发者公众号</a> 
 </p>
 
 
