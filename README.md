@@ -16,8 +16,6 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuehaoweng&repo=techblog&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <a href="https://github-readme-stats.vercel.app/api?username=xuehaoweng&show_icons=true&layout=compact&theme=dark?count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xuehaoweng&show_icons=true&layout=compact&theme=dark?count_private=true" />
 </a>
